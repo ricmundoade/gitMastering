@@ -12,5 +12,7 @@ void main()
   printf("4- git config --list \n");
   printf("\n\n Para obtener ayuda:  git help <verb> e.g.  git help config \n\n");
   printf(" Inicializar un repositorio de GIT      git init (en el directorio donde estara el repositorio) \n\n");
+
+  printf("modification to test git");
   
 }  
